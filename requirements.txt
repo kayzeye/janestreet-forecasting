@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+polars
+grpcio
+matplotlib
+hyperopt
+tqdm
+joblib
+datatable
+pyarrow
+google
+protobuf
+tensorboard
+torch
+torchvision
+#mlxtend==0.23.1

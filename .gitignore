@@ -1,0 +1,7 @@
+
+/.ipynb_checkpoints
+/.Trash-0/files
+*.trashinfo
+*.pyc
+/data
+/MNIST
