@@ -5,3 +5,5 @@
 *.pyc
 /data
 /MNIST
+/input
+/runs
