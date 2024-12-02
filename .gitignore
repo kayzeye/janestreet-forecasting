@@ -7,3 +7,4 @@
 /MNIST
 /input
 /runs
+*.parquet
