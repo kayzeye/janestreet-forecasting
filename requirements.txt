@@ -12,8 +12,9 @@ protobuf
 tensorboard
 torch
 torchvision
-lightgbm==4.2.0 -i https://mirrors.aliyun.com/pypi/simple/
-catboost==1.2.7 -i https://mirrors.aliyun.com/pypi/simple/
+psutil
+#lightgbm==4.2.0 -i https://mirrors.aliyun.com/pypi/simple/
+#catboost==1.2.7 -i https://mirrors.aliyun.com/pypi/simple/
 xgboost==2.0.3 -i https://mirrors.aliyun.com/pypi/simple/
 joblib==1.4.2 -i https://mirrors.aliyun.com/pypi/simple/
 #mlxtend==0.23.1
